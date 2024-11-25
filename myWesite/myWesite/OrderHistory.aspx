@@ -12,7 +12,7 @@
 <body>
     <form id="form1" runat="server">
     <div class="navbar">
-        <div class="brand">MyWebsite</div>
+        <div class="brand">Crochet Website</div>
         <div>
             <a href="HomePage.aspx">Home</a>
             <a href="AboutUs.aspx">About Us</a>
