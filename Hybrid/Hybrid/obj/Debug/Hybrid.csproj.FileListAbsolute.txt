@@ -1,0 +1,5 @@
+D:\AWPvs\Hybrid\Hybrid\bin\Hybrid.dll
+D:\AWPvs\Hybrid\Hybrid\bin\Hybrid.pdb
+D:\AWPvs\Hybrid\Hybrid\obj\Debug\Hybrid.dll
+D:\AWPvs\Hybrid\Hybrid\obj\Debug\Hybrid.pdb
+D:\AWPvs\Hybrid\Hybrid\obj\Debug\Hybrid.csprojResolveAssemblyReference.cache

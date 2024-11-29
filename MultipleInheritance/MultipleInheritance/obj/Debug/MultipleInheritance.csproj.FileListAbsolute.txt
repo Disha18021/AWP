@@ -1,0 +1,5 @@
+D:\AWPvs\MultipleInheritance\MultipleInheritance\bin\MultipleInheritance.dll
+D:\AWPvs\MultipleInheritance\MultipleInheritance\bin\MultipleInheritance.pdb
+D:\AWPvs\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.dll
+D:\AWPvs\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.pdb
+D:\AWPvs\MultipleInheritance\MultipleInheritance\obj\Debug\MultipleInheritance.csprojResolveAssemblyReference.cache
