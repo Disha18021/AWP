@@ -1,0 +1,4 @@
+D:\AWPvs\Practical6b\Practical6b\bin\Practical6b.dll
+D:\AWPvs\Practical6b\Practical6b\bin\Practical6b.pdb
+D:\AWPvs\Practical6b\Practical6b\obj\Debug\Practical6b.dll
+D:\AWPvs\Practical6b\Practical6b\obj\Debug\Practical6b.pdb
