@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<studentdetail>
+  <student sid="1" sname="Disha" sclass="TYIT" ></student>
+  <student sid="2" sname="Tanishka" sclass="TYCS" ></student>
+  <student sid="3" sname="Aditya" sclass="TYIT" ></student>
+  <student sid="4" sname="Sahil" sclass="TYCS" ></student>
+</studentdetail>

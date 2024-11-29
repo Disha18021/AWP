@@ -1,0 +1,5 @@
+D:\AWPvs\single\single\bin\single.dll
+D:\AWPvs\single\single\bin\single.pdb
+D:\AWPvs\single\single\obj\Debug\single.dll
+D:\AWPvs\single\single\obj\Debug\single.pdb
+D:\AWPvs\single\single\obj\Debug\single.csprojResolveAssemblyReference.cache

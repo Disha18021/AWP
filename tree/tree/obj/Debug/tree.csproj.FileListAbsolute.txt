@@ -1,0 +1,4 @@
+D:\AWPvs\tree\tree\bin\tree.dll
+D:\AWPvs\tree\tree\bin\tree.pdb
+D:\AWPvs\tree\tree\obj\Debug\tree.dll
+D:\AWPvs\tree\tree\obj\Debug\tree.pdb
