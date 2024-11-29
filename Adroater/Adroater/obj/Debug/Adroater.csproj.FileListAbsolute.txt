@@ -1,0 +1,12 @@
+D:\Dishanup\MicrosoftVS\Adroater\Adroater\bin\Adroater.dll
+D:\Dishanup\MicrosoftVS\Adroater\Adroater\bin\Adroater.pdb
+D:\Dishanup\MicrosoftVS\Adroater\Adroater\obj\Debug\Adroater.dll
+D:\Dishanup\MicrosoftVS\Adroater\Adroater\obj\Debug\Adroater.pdb
+D:\Adroater\Adroater\bin\Adroater.dll
+D:\Adroater\Adroater\bin\Adroater.pdb
+D:\Adroater\Adroater\obj\Debug\Adroater.dll
+D:\Adroater\Adroater\obj\Debug\Adroater.pdb
+D:\AWPvs\Adroater\Adroater\bin\Adroater.dll
+D:\AWPvs\Adroater\Adroater\bin\Adroater.pdb
+D:\AWPvs\Adroater\Adroater\obj\Debug\Adroater.dll
+D:\AWPvs\Adroater\Adroater\obj\Debug\Adroater.pdb

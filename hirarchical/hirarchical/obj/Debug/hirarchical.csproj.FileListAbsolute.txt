@@ -1,0 +1,5 @@
+D:\AWPvs\hirarchical\hirarchical\bin\hirarchical.dll
+D:\AWPvs\hirarchical\hirarchical\bin\hirarchical.pdb
+D:\AWPvs\hirarchical\hirarchical\obj\Debug\hirarchical.dll
+D:\AWPvs\hirarchical\hirarchical\obj\Debug\hirarchical.pdb
+D:\AWPvs\hirarchical\hirarchical\obj\Debug\hirarchical.csprojResolveAssemblyReference.cache
