@@ -1,0 +1,4 @@
+D:\AWPvs\Prac2cc1\Prac2cc1\bin\Prac2cc1.dll
+D:\AWPvs\Prac2cc1\Prac2cc1\bin\Prac2cc1.pdb
+D:\AWPvs\Prac2cc1\Prac2cc1\obj\Debug\Prac2cc1.dll
+D:\AWPvs\Prac2cc1\Prac2cc1\obj\Debug\Prac2cc1.pdb
