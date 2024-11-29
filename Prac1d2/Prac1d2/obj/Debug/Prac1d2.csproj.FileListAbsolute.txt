@@ -1,0 +1,5 @@
+D:\AWPvs\Prac1d2\Prac1d2\bin\Prac1d2.dll
+D:\AWPvs\Prac1d2\Prac1d2\bin\Prac1d2.pdb
+D:\AWPvs\Prac1d2\Prac1d2\obj\Debug\Prac1d2.dll
+D:\AWPvs\Prac1d2\Prac1d2\obj\Debug\Prac1d2.pdb
+D:\AWPvs\Prac1d2\Prac1d2\obj\Debug\Prac1d2.csprojResolveAssemblyReference.cache
