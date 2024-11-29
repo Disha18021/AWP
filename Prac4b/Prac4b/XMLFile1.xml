@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+  <Ad>
+
+    <ImageUrl> a.jpg </ImageUrl>
+    <NavigateUrl> https://www.whatsapp.com </NavigateUrl>
+    <AlternateText> hello </AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic1</Keyword>
+    <Caption> Whatsapp </Caption>
+    
+  </Ad>
+  <Ad>
+
+    <ImageUrl> b.jpg </ImageUrl>
+    <NavigateUrl> https://www.instagram.com </NavigateUrl>
+    <AlternateText> hii </AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic1</Keyword>
+    <Caption> Instagram </Caption>
+
+  </Ad>
+</Advertisements>
