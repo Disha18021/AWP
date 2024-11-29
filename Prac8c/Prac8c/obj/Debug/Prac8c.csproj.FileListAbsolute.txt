@@ -1,0 +1,4 @@
+D:\AWPvs\Prac8c\Prac8c\bin\Prac8c.dll
+D:\AWPvs\Prac8c\Prac8c\bin\Prac8c.pdb
+D:\AWPvs\Prac8c\Prac8c\obj\Debug\Prac8c.dll
+D:\AWPvs\Prac8c\Prac8c\obj\Debug\Prac8c.pdb

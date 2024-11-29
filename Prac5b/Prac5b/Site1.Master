@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Prac5b.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>c# corner</title>
+    <link href="my.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <nav id="nav">
+        <ul>
+            <li><a href="home.aspx">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Article</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <aside id="side">
+        <h1>news</h1>
+        <a href="#"><p>creating HTML website</p></a>
+        <a href="#"><p>learn CSS</p></a>
+        <a href="#">learn C#</a>
+    </aside>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <footer id="footer">
+        copyright @c# corner
+    </footer>
+    </div>
+    </form>
+</body>
+</html>
